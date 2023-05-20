@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ExpressRestaurant/static/css/main.707baf73.css",
+    "main.js": "/ExpressRestaurant/static/js/main.126204bd.js",
+    "static/media/Header.jpg": "/ExpressRestaurant/static/media/Header.117239cda222677aae29.jpg",
+    "index.html": "/ExpressRestaurant/index.html",
+    "main.707baf73.css.map": "/ExpressRestaurant/static/css/main.707baf73.css.map",
+    "main.126204bd.js.map": "/ExpressRestaurant/static/js/main.126204bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.707baf73.css",
+    "static/js/main.126204bd.js"
+  ]
+}
